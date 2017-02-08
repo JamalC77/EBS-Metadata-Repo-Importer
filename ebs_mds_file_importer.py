@@ -1,10 +1,10 @@
 import os
 import subprocess
 ## Author: Jamal Carter
-## This script imports xml files from a directory to
-## the database metadata repository
+## This script imports xml files from a directory, 
+## or group of directories, to the database metadata repository
 
-## The root path equivalent to $JAVA_TOP
+## The root path is equivalent to $JAVA_TOP
 ## (*****Change this to the directory above your application*****)
 root_path = 'C:/homedir/jdevhome/jdev/myclasses/'
 
