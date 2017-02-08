@@ -6,11 +6,11 @@ import subprocess
 
 ## The root path equivalent to $JAVA_TOP
 ## (*****Change this to the directory above your application*****)
-root_path = 'C:/example/jdevhome/jdev/myclasses/'
+root_path = 'C:/homedir/jdevhome/jdev/myclasses/'
 
 ## Directory containing the import script
 ## (*****Change this to the directory with your import.bat*****)
-java_import_dir = 'C:/example/jdevbin/oaext/bin/'
+java_import_dir = 'C:/homedir/jdevbin/oaext/bin/'
 
 ## The directories from which files will be imported
 paths=[
